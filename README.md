@@ -8,4 +8,4 @@ RTM simulated cloud image:\
 ![cloudy](dataset/test/cloudy.png)\
 #data sets
 The dataset used in the paper can be found at [RSHaze](https://drive.google.com/drive/folders/1Yy_GH6_bydYPU6_JJzFQwig4LTh86VI4)\
-Our dataset [RTCR]
+Our dataset can be found at [RTCR](https://zenodo.org/records/16534169)
