@@ -3,7 +3,7 @@ We have proposed a new cloud removal model\
 ![network](fig.png)\
 Moreover,we have created a new Radiative Transfer Model (RTM) driven cloud simulation synthesis dataset.\
 Cloud free image:\
-![cloud free](dataset/test/cloudfree.tif)\
+![cloud free](dataset/test/cloudfree.png)\
 RTM simulated cloud image:\
-![cloudy](dataset/test/cloudy.tif)\
+![cloudy](dataset/test/cloudy.png)\
 The dataset and model are coming soon
