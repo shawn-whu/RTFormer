@@ -87,7 +87,7 @@ if __name__ == '__main__':
     workers = 8
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     model = WGAN_Generator(nc=4)
-    model_state, optimizer_state = torch.load(r".\whucr_WGAN_GP_G_pos50_00001_1.0lossdg2.pth", map_location=torch.device('cpu'))
+    model_state, optimizer_state = torch.load(r"a.pth", map_location=torch.device('cpu'))
     model.load_state_dict(model_state)
 
     cloudy_img_dir = r'G:\S2forCR\whucrdataset\img_clip\test\cloudy'
